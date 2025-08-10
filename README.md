@@ -68,14 +68,6 @@ SorteioAmigos-ChallengeOracle/
 - Estilizar a interface com CSS para uma melhor aparência.
 - Adicionar validações mais robustas (ex.: tamanho mínimo do nome ou proibir caracteres especiais).
 
-## Contribuição
-
-1. Faça um fork do repositório.
-2. Crie um branch para sua feature: `git checkout -b minha-feature`.
-3. Commit suas alterações: `git commit -m 'Adiciona minha feature'`.
-4. Faça push para o branch: `git push origin minha-feature`.
-5. Abra um Pull Request no GitHub.
-
 ## Autor
 - **André LSL** - Desenvolvedor do projeto para o Challenge Oracle.
 - GitHub: [Andre-LSL](https://github.com/Andre-LSL)
