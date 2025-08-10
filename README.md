@@ -29,22 +29,6 @@ Este é um projeto desenvolvido como parte do **Challenge Oracle**, com o objeti
 - Um navegador web moderno (Chrome, Firefox, Edge, etc.).
 - Não são necessárias dependências externas ou configurações adicionais.
 
-## Instalação e Execução
-
-1. **Clone o repositório**:
-   ```bash
-   git clone https://github.com/Andre-LSL/SorteioAmigos-ChallengeOracle.git
-   ```
-
-2. **Acesse o diretório do projeto**:
-   ```bash
-   cd SorteioAmigos-ChallengeOracle
-   ```
-
-3. **Abra o projeto**:
-   - Abra o arquivo `index.html` diretamente em um navegador web (ex.: clique duas vezes no arquivo ou use um servidor local).
-   - Alternativamente, use uma extensão como o **Live Server** no VS Code para rodar o projeto localmente.
-
 ## Estrutura do Projeto
 
 ```
